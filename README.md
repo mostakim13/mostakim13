@@ -6,12 +6,16 @@
 
 I’m a Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
 
-Skills: REACT / JS / HTML / CSS / PHP
+Skills & Experience:
+✅ PHP <br>
+✅ JavaScript <br>
+✅ HTML5 / CSS3 / SASS / BOOTSTRAP <br>
+✅ Adobe Photoshop
 
-- 🌱 I’m currently learning JavaScript 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: mimrzs2013@gmail.com 
-
+ 🌱 I’m currently learning JavaScript 
+ 💬 Ask me about Web Development 
+ 📫 How to reach me: mimrzs2013@gmail.com 
+ 🖊️ Love to write code.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mostakim15)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/k-m-mostakim-77a2921a1/?originalSubdomain=bd/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/)  
 
