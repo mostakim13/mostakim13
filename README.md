@@ -3,27 +3,20 @@
 ### Hi there 👋, I am K. M. Mostakim
 #### I am Web Developer
 
+
 I’m a Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
 
-Skills: REACT / JS / HTML / CSS / PHP/
+Skills: REACT / JS / HTML / CSS / PHP
 
 - 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Development 
+- 📫 How to reach me: mimrzs2013@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mostakim15)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/k-m-mostakim-77a2921a1/?originalSubdomain=bd/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/kmmostakim)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mostakim15)](https://github.com/ryo-ma/github-profile-trophy)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mostakim15)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/k-m-mostakim-77a2921a1/?originalSubdomain=bd/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostakim15)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mostakim15&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mostakim15)  
-
-![GitHub metrics](https://metrics.lecoq.io/Mostakim15)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mostakim15)  
 
 ![Profile views](https://gpvc.arturio.dev/Mostakim15)  
