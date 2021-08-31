@@ -13,9 +13,10 @@ Skills & Experience: <br>
 ✅ Adobe Photoshop<br>
 
  🌱 I’m currently learning JavaScript <br>
+ 🖊️ Love to write code.<br>
  💬 Ask me about Web Development <br>
  📫 How to reach me: mimrzs2013@gmail.com <br>
- 🖊️ Love to write code.<br>
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mostakim15)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/k-m-mostakim-77a2921a1/?originalSubdomain=bd/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/)  
 
