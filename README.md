@@ -8,9 +8,13 @@ I’m a Web developer who is passionate about making error-free websites with 10
 
 Skills & Experience: <br>
 ✅ PHP <br>
+✅ Laravel <br>
 ✅ JavaScript <br>
+✅ ReactJs <br>
+✅ jQuery <br>
+✅ Ajax <br>
 ✅ HTML5 / CSS3 / SASS / BOOTSTRAP <br>
-✅ Adobe Photoshop<br>
+✅ Adobe Photoshop <br>
 
  🌱 I’m currently learning JavaScript <br>
  🖊️ Love to write code.<br>
