@@ -18,7 +18,7 @@ Skills & Experience: <br>
 
  🌱 I’m currently learning JavaScript <br>
  🖊️ Love to write code.<br>
- 💬 Ask me about Web Development <br>
+ 💬 Ask me about Software Development <br>
  📫 How to reach me: mimrzs2013@gmail.com <br>
 
 
