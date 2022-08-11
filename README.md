@@ -1,10 +1,10 @@
 ![I am Software Engineer](https://media-exp1.licdn.com/dms/image/C5103AQHVEIZuSoM7pQ/profile-displayphoto-shrink_200_200/0/1580541188488?e=1635984000&v=beta&t=AInNJoMqk8RNI8FIrh1hpvBbvkG2X3XYX9FKGchWew8)
 
 ### Hi there 👋, I am K. M. Mostakim
-#### I am Jr. Software Engineer
+#### I am Software Engineer
 
 
-I’m a Software Developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with PHP based framework Laravel but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
+I’m a Software Engineer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with PHP based framework Laravel but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
 
 Skills & Experience: <br>
 ✅ PHP <br>
