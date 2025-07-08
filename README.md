@@ -52,13 +52,6 @@ I love solving real-world problems and turning ideas into reality through code. 
 
 ---
 
-## 📈 GitHub Stats
-
-![Mostakim15's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mostakim15&show_icons=true&theme=default)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostakim15&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## 🌱 Currently Learning
 - Deepening JavaScript & React.js
 - Exploring modern Laravel ecosystem
