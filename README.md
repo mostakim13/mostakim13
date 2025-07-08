@@ -63,7 +63,7 @@ I love solving real-world problems and turning ideas into reality through code. 
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Mostakim15)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-m-mostakim-77a2921a1/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/k.m.mostakim.143801/)
 
 📧 **Email:** mimrzs2013@gmail.com
 
