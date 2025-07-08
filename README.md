@@ -3,9 +3,9 @@
 # 👋 Hi there, I'm K. M. Mostakim
 ### 💻 Software Engineer | Laravel Developer | JavaScript Enthusiast
 
-I’m a passionate Software Engineer with 2.9+ years of professional experience in building **secure**, **scalable**, and **high-performance** web applications.
+I’m a passionate Software Engineer focused on building **secure**, **scalable**, and **high-performance** web applications.
 
-I love solving real-world problems and turning ideas into reality through code. I always focus on writing clean, maintainable, and well-documented code. I strongly believe in continuous learning and enjoy sharing knowledge with others.
+I love solving real-world problems and turning ideas into reality through code. I always aim to write clean, maintainable, and well-documented code. I strongly believe in continuous learning and enjoy sharing knowledge with others.
 
 ---
 
