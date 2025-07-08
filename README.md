@@ -1,31 +1,79 @@
-![I am Software Engineer](https://media-exp1.licdn.com/dms/image/C5103AQHVEIZuSoM7pQ/profile-displayphoto-shrink_200_200/0/1580541188488?e=1635984000&v=beta&t=AInNJoMqk8RNI8FIrh1hpvBbvkG2X3XYX9FKGchWew8)
+![Software Engineer – K. M. Mostakim](https://media-exp1.licdn.com/dms/image/C5103AQHVEIZuSoM7pQ/profile-displayphoto-shrink_200_200/0/1580541188488?e=1635984000&v=beta&t=AInNJoMqk8RNI8FIrh1hpvBbvkG2X3XYX9FKGchWew8)
 
-### Hi there 👋, I am K. M. Mostakim
-#### I am Software Engineer
+# 👋 Hi there, I'm K. M. Mostakim
+### 💻 Software Engineer | Laravel Developer | JavaScript Enthusiast
 
+I’m a passionate Software Engineer with 2.9+ years of professional experience in building **secure**, **scalable**, and **high-performance** web applications.
 
-I’m a Software Engineer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with PHP-based framework Laravel but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
+I love solving real-world problems and turning ideas into reality through code. I always focus on writing clean, maintainable, and well-documented code. I strongly believe in continuous learning and enjoy sharing knowledge with others.
 
-Skills & Experience: <br>
-✅ PHP <br>
-✅ Laravel <br>
-✅ JavaScript <br>
-✅ ReactJs <br>
-✅ jQuery <br>
-✅ Ajax <br>
-✅ HTML5 / CSS3 / SASS / BOOTSTRAP <br>
-✅ Adobe Photoshop <br>
+---
 
- 🌱 I’m currently learning JavaScript <br>
- 🖊️ Love to write code.<br>
- 💬 Ask me about Software Development <br>
- 📫 How to reach me: mimrzs2013@gmail.com <br>
+## 🛠️ Skills & Technologies
 
+### 💻 Programming Languages
+- ✅ PHP (Expert)
+- C, Python, Java
+- JavaScript
+- SQL
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mostakim15)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/k-m-mostakim-77a2921a1/?originalSubdomain=bd/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/)  
+### 🌐 Web Development
+- HTML5, CSS3, SASS
+- JavaScript, PHP
+- RESTful API Development
+- MVC Architecture
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostakim15)](https://github.com/anuraghazra/github-readme-stats)
+### ⚙️ Frameworks & Libraries
+- ✅ Laravel (Primary)
+- Bootstrap, jQuery, AJAX
+- PHPUnit (Testing)
+- React.js (Familiar)
+- Spring Boot (Familiar)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mostakim15&show_icons=true)  
+### 🗃️ Databases
+- MySQL
 
-![Profile views](https://gpvc.arturio.dev/Mostakim15)  
+### 🛠️ Tools & IDEs
+- PhpStorm, NetBeans, VS Code, Code::Blocks
+- PyCharm, Jupyter Notebook (v6.0.3)
+
+### 🔄 Version Control
+- Git, GitHub, Bitbucket
+
+### 🚀 DevOps / Deployment
+- Docker
+- GitHub Actions
+- CI/CD Workflows
+
+### 📋 Software Development Practices
+- Agile (Scrum)
+- Test-Driven Development (TDD)
+- Continuous Integration & Delivery (CI/CD)
+
+---
+
+## 📈 GitHub Stats
+
+![Mostakim15's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mostakim15&show_icons=true&theme=default)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostakim15&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🌱 Currently Learning
+- Deepening JavaScript & React.js
+- Exploring modern Laravel ecosystem
+- Strengthening clean architecture & system design
+
+---
+
+## 🤝 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Mostakim15)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-m-mostakim-77a2921a1/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/)
+
+📧 **Email:** mimrzs2013@gmail.com
+
+---
+
+![Profile views](https://gpvc.arturio.dev/Mostakim15)
